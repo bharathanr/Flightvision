@@ -1,5 +1,5 @@
-Flyvision
-=========
+Flightvision
+=============
 
 A Raytracer coded up in C++.
 
